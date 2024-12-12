@@ -6,16 +6,16 @@
 ### <div align="center">I'm Axel, a student and aspiring developer</div>  
   
 
-- 🔭 I’m currently working on [My portfolio werbsite](https://github.com/xrpq/react-portfolio-website-og)  
+- 🔭 I’m currently working on [Round Table](https://github.com/xrpq/round-table)  
   
 
-- 🌱 I’m currently learning React and Bootstrap  
+- 🌱 I’m currently learning about AI, Machine Learning, and LLMS  
   
 
 - ❓ Have any fun project ideas? Let me know!  
   
 
-- ⚡ Fun fact: I reformat every line after I finish projects.  
+- ⚡ Fun fact: my favorite color is red.  
   
 
 <br/>  
