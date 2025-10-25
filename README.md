@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Axel, a student and aspiring developer</div>  
+### <div align="center">I'm Axel, a student and developer</div>  
   
 
 - 🔭 I’m currently working on [Round Table](https://github.com/xrpq/round-table)  
